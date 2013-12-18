@@ -1,0 +1,32 @@
+/* Large desktop */
+@media (min-width: 980px) { 
+
+	.container{	width: 1200px; background: url(../images/aside.png) left repeat-y;	}
+	#primary { width:840px;  }
+	#secondary { width:360px; height: 100%; }
+	.incover{padding: 30px 30px;}
+	.fcred{padding-left: 370px;}
+	h2.sidetoggle{display: none;}
+ }
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { 
+
+	.container{	width: 980px;	background: url(../images/aside2.png) left repeat-y; }
+	#primary { width:640px; }
+	#secondary { width:340px; }
+	.incover{padding: 30px 30px;}
+	.fcred{padding-left: 350px;}
+	h2.sidetoggle{display: none;}
+ }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+	#masthead{text-align: center;}
+	.container{	width: 100%;	}
+	#primary { width:100%; }
+	#secondary { width:100%; background: url(../images/aside2.png); }
+	.incover{padding: 30px 30px;}
+	.fcred{padding: 0px 10px;}
+	#sidebar{display: none;	}
+}
+ 
