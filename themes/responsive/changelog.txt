@@ -8,6 +8,26 @@ Changelog Legend:
 [x] = Deleted
 [!] = Bugs
 
+(12/15/13) - Improvements - Version 1.9.4.2
+
+[+] Made search form accessible
+[*] Updated screenshot to 880x660px
+[*] Moved breadcrumb check from template to functions.php
+[*] Updated responsive.pot
+[*] Updated links from themeid.com to cyberchimps.com
+
+----
+
+(12/08/13) - Improvements - Version 1.9.4.1
+
+[+] Added `featured-content` id to front-page.
+[*] Updated Welsh, Russian and Greek translations.
+[!] Fixed the footer widget with adding fit class to third widget.
+[x] Removed duplicated theme options titles.
+[x] Removed old mobile menu css.
+
+----
+
 (11/29/13) - Improvements - Version 1.9.4.0
 
 [+] Added front page setting notification to reading settings.

@@ -1,5 +1,5 @@
 <div class="squarebanner cf">
-	<h3 class="sidetitl"> Sponsors </h3>
+	<h3 class="sidetitl"></h3>
 <ul class="cf">
 
 

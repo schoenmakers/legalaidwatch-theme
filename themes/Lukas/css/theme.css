@@ -38,7 +38,7 @@ h2.site-description{
 
 
 #nav-main{
-	background: #2d3342;
+	background: #333333;
 	padding: 10px;
 	border-radius: 5px;
 	margin-bottom: 30px;
@@ -59,7 +59,7 @@ h2.site-description{
 	color:#eee; 
 	margin: 0px 0px;
 	border-top: 1px #3B4358 solid;
-	background: #58627c;
+	background: #f79120;
 	letter-spacing: 1px;
 }
 
@@ -67,12 +67,12 @@ h2.site-description{
 	border: none;
 }
  
-#nav-main ul li a:hover { background: #c3cce5; color: #2d3342 }
+#nav-main ul li a:hover { background: #bababa; color: #FFF }
 #nav-main ul li ul li a:hover { background: none; color: #0f6cb6; }
 #nav-main ul li ul { position: relative; padding: 10px 0px; }
  
 #nav-main ul ul li a { background: none; border: none; padding: 5px 0px 5px 0px; margin: 0 0 0 15px; }
-#nav-main ul ul li a:hover { color:#fff!important;}
+#nav-main ul ul li a:hover { color:#e36204!important;}
 #nav-main ul ul li ul { margin: 0 0 0 8px; }
  
 ul.sub-menu li.current-menu-item  { color: #fff!important;}
@@ -99,7 +99,7 @@ header.entry-header{
 h1.entry-title{
 	font-weight: 800;
 	font-size: 36px;
-	color: #3B4358;
+	color: #e36204;
 
 }
 
