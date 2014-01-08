@@ -18,7 +18,7 @@
 }
 h1.site-title{
 	font-size: 36px;
-	text-transform: uppercase;
+	font-variant:small-caps;
 	color: #F79120;
 	font-weight: 800;
 	margin: 0px 0px;
@@ -26,7 +26,10 @@ h1.site-title{
 }
 
 h1.site-title a:link, h1.site-title a:visited{
-	color: #F79120;
+	color: #FFFFFF;
+    letter-spacing: 5px;
+    line-height: 1.2;
+    text-shadow: 2px 3px 1px #555555;
 }
 
 h2.site-description{

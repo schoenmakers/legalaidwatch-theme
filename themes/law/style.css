@@ -94,16 +94,17 @@ textarea {
     font-family: Arial, sans-serif;	
 	font-size: 14px;
 	font-size: 1.4rem;
-	line-height: 1.4;
+	line-height: 1.6;
 }
 
 body{
-	background: url(images/back.png);
+	background: #EAEAEA url(images/back.png) repeat-y;
 }
 
 /* Headings */
 h1,h2,h3,h4,h5,h6 {
 	clear: both;
+	color: #F79120;
 	margin:0px 0px 5px 0px;
 	/* letter-spacing: -1px; */
 	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;	
