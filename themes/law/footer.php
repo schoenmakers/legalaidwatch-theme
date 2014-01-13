@@ -14,7 +14,7 @@
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
 			<div class="fcred">
-			Copyright &copy; <?php echo date('Y');?> <a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a> | <a href="/disclaimer" title="Disclaimer">Disclaimer</a> <br />
+			Copyright &copy; <?php echo date('Y');?> <a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a> | <a href="/disclaimer" title="Disclaimer">Disclaimer</a> | <a href="http://www.sjine.nl">Sjine websiteredesign</a> <br />
 			</div>		
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->
